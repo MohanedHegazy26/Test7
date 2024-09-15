@@ -12,8 +12,13 @@
 }
 
 body {
-    width: 60%;
-font-size: 17px;
+    
+
+width: 793.7px; 
+height: 1122.5px; 
+margin: 0 auto; 
+
+box-sizing: border-box;
 }
 
 .name {
@@ -46,4 +51,8 @@ font-size: 17px;
 
 .code {
     width: 215px;
+}
+
+.pre1{
+    font-size: 14px;
 }
